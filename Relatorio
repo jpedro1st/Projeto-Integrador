@@ -1,0 +1,215 @@
+PRESENÇA DIGITAL PROFISSIONAL NO GITHUB
+
+Aluno: João Pedro Santos da Silva
+Curso: Análise e Desenvolvimento de Sistemas
+Área de interesse: Desenvolvimento Backend
+Tecnologias de interesse: Java e Python
+GitHub: https://github.com/jpedro1st
+
+1. Introdução
+
+A presença digital profissional é um ponto importante para quem deseja construir uma carreira na área de Tecnologia da Informação. Atualmente, o GitHub é uma das principais plataformas utilizadas por desenvolvedores para compartilhar projetos, armazenar códigos, documentar aplicações e demonstrar seus conhecimentos.
+
+O objetivo desta atividade foi conhecer boas práticas utilizadas por profissionais da área de desenvolvimento de software e aplicá-las na organização do meu próprio perfil.
+
+Como estudante de Análise e Desenvolvimento de Sistemas, tenho interesse principalmente em desenvolvimento Backend e busco aprimorar meus conhecimentos em programação, especialmente nas linguagens Java e Python.
+
+A proposta foi utilizar meu GitHub como um portfólio técnico, dando mais visibilidade aos projetos que desenvolvi durante minha formação acadêmica.
+
+2. Etapa 1 — Pesquisa de mercado e benchmarking
+
+Para realizar a pesquisa, foram selecionados dez profissionais brasileiros que possuem participação na comunidade de desenvolvimento de software e projetos relacionados à tecnologia.
+
+2.1 Perfis profissionais selecionados
+Rafaella Ballerini — https://github.com/rafaballerini
+Filipe Deschamps — https://github.com/filipedeschamps
+Erick Wendel — https://github.com/ErickWendel
+Mario Souto — https://github.com/omariosouto
+Zeno Rocha — https://github.com/zenorocha
+Avelino — https://github.com/avelino
+Bruno Rocha — https://github.com/rochacbruno
+Rafael Gonzaga — https://github.com/RafaelGSS
+Erika Heidi — https://github.com/erikaheidi
+Andrey Nering — https://github.com/andreynering
+2.2 Critérios de análise
+
+Durante a análise dos perfis, foram observados alguns aspectos importantes para a construção de uma boa apresentação profissional no GitHub.
+
+Apresentação profissional: como os desenvolvedores apresentam suas experiências, interesses e tecnologias.
+
+Projetos fixados: quais trabalhos são escolhidos para aparecer em destaque no perfil.
+
+Documentação: como os arquivos README explicam os objetivos, funcionalidades e formas de execução dos projetos.
+
+Organização: utilização de nomes descritivos nos repositórios, arquivos LICENSE e .gitignore.
+
+Atividade: participação em projetos públicos e contribuições para a comunidade de desenvolvimento.
+
+2.3 Reflexão sobre o benchmarking
+
+Durante a pesquisa dos dez perfis brasileiros, percebi que uma boa apresentação no GitHub faz diferença para quem deseja mostrar seu trabalho na área de tecnologia. Um dos pontos que mais chamou minha atenção foi a forma como os profissionais apresentam suas habilidades e deixam seus principais projetos em destaque. Também observei que a documentação é bastante importante, pois facilita o entendimento dos projetos por outras pessoas, sem que seja necessário analisar todo o código. Outro aspecto interessante foi o uso de ícones, imagens e badges para deixar os perfis mais organizados e visuais. Percebi também que manter os repositórios bem estruturados, com nomes que expliquem sua finalidade e instruções de execução, transmite mais organização. Com base nisso, procurei melhorar a apresentação do meu próprio perfil e aproveitar os projetos que já desenvolvi durante o curso. Minha intenção é mostrar minha evolução como estudante, principalmente na área de desenvolvimento Backend. Também quero continuar aprimorando meus conhecimentos em Java, Python e banco de dados, utilizando o GitHub para registrar meus estudos e projetos. Com essa análise, entendi que a plataforma não serve apenas para armazenar códigos, mas também pode funcionar como um portfólio para apresentar minhas habilidades e experiências a professores, colegas e futuros recrutadores.
+
+3. Etapa 2 — Organização do meu perfil profissional
+
+O perfil utilizado para a atividade é:
+
+https://github.com/jpedro1st
+
+Ao analisar meu perfil, identifiquei que já possuo projetos acadêmicos publicados e uma apresentação pessoal com informações sobre minha formação e meus interesses profissionais.
+
+3.1 Identidade profissional
+
+Meu perfil apresenta o nome João Pedro e a seguinte descrição profissional:
+
+"Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Backend | Python, Java e SQL".
+
+Essa apresentação resume minha formação e demonstra a área em que pretendo desenvolver minha carreira.
+
+Também foram incluídos links de contato profissional e informações sobre minhas tecnologias de interesse.
+
+3.2 README do perfil
+
+Foi criado um README de apresentação para deixar meu perfil mais completo e organizado.
+
+O conteúdo apresenta:
+
+Uma breve apresentação pessoal.
+Informações sobre minha formação acadêmica.
+Meus interesses na área de desenvolvimento.
+Tecnologias e ferramentas que estudo.
+Links para meus projetos.
+Formas de contato profissional.
+
+O objetivo é permitir que qualquer pessoa que acesse meu perfil consiga conhecer um pouco sobre mim e encontrar meus trabalhos com facilidade.
+
+3.3 Tecnologias e ferramentas
+
+As tecnologias apresentadas no meu perfil estão relacionadas aos meus estudos e interesses atuais:
+
+Linguagens: Python, Java, JavaScript e C.
+Banco de dados: MySQL e SQL.
+Ferramentas: Git, GitHub e Visual Studio Code.
+Desenvolvimento: HTML e CSS.
+Lógica de programação: algoritmos, estruturas condicionais e estruturas de repetição.
+
+Também pretendo aprofundar meus conhecimentos em desenvolvimento Backend e programação orientada a objetos.
+
+4. Projetos acadêmicos publicados no GitHub
+
+Uma parte importante da atividade foi aproveitar os projetos que já estavam publicados no meu GitHub, em vez de criar trabalhos apenas para preencher o portfólio.
+
+Atualmente, meu perfil possui projetos relacionados à lógica de programação, algoritmos, organização de dados e desenvolvimento de soluções computacionais.
+
+4.1 Sistema de Monitoramento de Temperatura
+
+Repositório: https://github.com/jpedro1st/desafio-monitoramento
+
+Este projeto foi desenvolvido utilizando a linguagem C e tem como objetivo monitorar temperaturas informadas pelo usuário.
+
+O programa recebe um limite de temperatura e realiza leituras sucessivas. Quando são identificadas três temperaturas consecutivas acima do limite estabelecido, o sistema apresenta um alerta e encerra o monitoramento automaticamente.
+
+Durante o desenvolvimento, foram utilizados conceitos como:
+
+Estruturas de repetição.
+Estruturas condicionais.
+Validação de entradas.
+Variáveis e operadores.
+Entrada e saída de dados.
+
+O projeto também possui documentação com explicações sobre seu funcionamento, testes realizados e instruções para compilação e execução.
+
+4.2 Calculadora com Flowgorithm
+
+Repositório: https://github.com/jpedro1st/calculadora-flowgorithm
+
+Este projeto consiste no desenvolvimento de uma calculadora utilizando o Flowgorithm, ferramenta que permite representar algoritmos por meio de fluxogramas.
+
+A aplicação possui dez operações matemáticas, incluindo soma, subtração, multiplicação, divisão, potenciação, raiz quadrada, média e porcentagem.
+
+O trabalho utiliza estruturas de decisão e repetição para apresentar um menu interativo e permitir que o usuário realize diferentes operações.
+
+Esse projeto contribuiu para o desenvolvimento do meu raciocínio lógico e para a compreensão da estrutura de funcionamento dos algoritmos.
+
+4.3 Organizador de Despesas Pessoais
+
+Repositório: https://github.com/jpedro1st/organizador-dispesas
+
+O projeto foi desenvolvido em linguagem C e tem como objetivo organizar despesas pessoais em ordem decrescente, utilizando o algoritmo Bubble Sort.
+
+A proposta é facilitar a visualização dos maiores gastos, demonstrando como os algoritmos de ordenação podem ser aplicados em situações do cotidiano.
+
+Durante o desenvolvimento, foram trabalhados conceitos como:
+
+Arrays e vetores.
+Estruturas de repetição.
+Comparação de valores.
+Troca de posições.
+Algoritmos de ordenação.
+
+O repositório possui documentação, exemplos de saída no terminal e informações sobre como compilar e executar o programa.
+
+4.4 Ordenação de Preços de Supermercado
+
+Repositório: https://github.com/jpedro1st/ordenacao-precos-supermercado-
+
+Este projeto foi desenvolvido em linguagem C com o objetivo de organizar os preços de produtos fictícios de um supermercado.
+
+Foram utilizados dois algoritmos de ordenação: Bubble Sort e Quick Sort.
+
+A aplicação apresenta os valores originais e os resultados após a ordenação crescente, permitindo observar as diferenças entre os dois algoritmos.
+
+O trabalho possibilitou praticar conceitos de:
+
+Vetores.
+Algoritmos de ordenação.
+Estruturas de repetição.
+Funções e lógica de programação.
+Comparação de algoritmos.
+4.5 Diagrama do projeto India
+
+Repositório: https://github.com/jpedro1st/India
+
+O repositório contém um arquivo de imagem relacionado a um diagrama, servindo como registro visual de uma atividade desenvolvida durante minha formação.
+
+Esse material também demonstra a utilização do GitHub para armazenar e compartilhar documentos e recursos relacionados aos trabalhos acadêmicos.
+
+4.6 Importância dos projetos para o portfólio
+
+Os projetos publicados representam diferentes atividades desenvolvidas durante minha formação acadêmica.
+
+Mesmo sendo trabalhos de diferentes níveis de complexidade, todos contribuíram para meu aprendizado e para a construção de uma base em programação.
+
+Com eles, consigo demonstrar experiências práticas com linguagem C, lógica de programação, algoritmos, estruturas de repetição e ordenação de dados.
+
+Esses trabalhos também representam o início da construção do meu portfólio, que pretendo ampliar com novos projetos utilizando Java, Python e tecnologias voltadas ao desenvolvimento Backend.
+
+5. Padronização técnica e documentação
+
+A documentação é uma parte importante de qualquer projeto, pois permite que outras pessoas entendam sua finalidade e consigam executar o programa.
+
+Ao analisar meus repositórios, identifiquei a importância de manter os arquivos README organizados, apresentando informações como:
+
+Descrição e objetivo do projeto.
+Tecnologias utilizadas.
+Funcionalidades implementadas.
+Instruções de instalação e execução.
+Exemplos de funcionamento.
+Imagens e evidências, quando aplicáveis.
+
+Também considero importante adicionar arquivos LICENSE e .gitignore, além de descrições e topics relacionados a cada projeto.
+
+Essas melhorias ajudam a manter os repositórios mais organizados e facilitam a apresentação dos trabalhos para outras pessoas.
+
+6. Considerações finais
+
+A realização desta atividade me ajudou a perceber que o GitHub pode ser muito mais do que um local para armazenar códigos. Ele também funciona como uma ferramenta para apresentar conhecimentos, projetos e a evolução de quem está estudando programação.
+
+Durante a análise dos profissionais de referência, consegui identificar boas práticas que podem ser aplicadas ao meu próprio perfil, principalmente em relação à apresentação pessoal, organização dos repositórios e documentação dos projetos.
+
+Também pude observar que os trabalhos acadêmicos que já desenvolvi possuem valor para a construção do meu portfólio, pois demonstram conhecimentos adquiridos ao longo do curso.
+
+Meu objetivo é continuar atualizando meu GitHub, melhorando a documentação dos projetos existentes e desenvolvendo novas aplicações, principalmente utilizando Java e Python.
+
+Dessa forma, pretendo construir gradualmente uma presença digital mais profissional e utilizar meus projetos como forma de demonstrar meu aprendizado e minha evolução na área de desenvolvimento de software.
+
+Perfil GitHub: https://github.com/jpedro1st
